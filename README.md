@@ -1,10 +1,7 @@
-![Blue Purple Futuristic Modern 3D Tech Company Business Presentation](https://user-images.githubusercontent.com/101393796/206354978-7e044c63-5e46-41de-afbd-e9cfef1d94bd.png)
-
-
-
-                          👋 Hi, I’m Sandeep Prajapati your@sandeepprogrammer64
+- 👋 Hi, I’m Sandeep Prajapati your@sandeepprogrammer64
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me mail4sandeep44@gmail.com
+- 
 
 <!---
 sandeepprogrammer64/sandeepprogrammer64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
