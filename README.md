@@ -1,8 +1,13 @@
-                      ![Developer Sandeep LOGO](https://user-images.githubusercontent.com/101393796/206350957-6d6a17b0-1f6c-4717-9879-8c73dee9c6ff.png)
+![Developer Sandeep LOGO](https://user-images.githubusercontent.com/101393796/206352978-772e37d8-e159-4f64-8269-a60942d8b5d1.png)
+
 
 
                           👋 Hi, I’m Sandeep Prajapati your@sandeepprogrammer64
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning 
+
+https://user-images.githubusercontent.com/101393796/206353523-e174cf93-8aeb-4b63-882e-0284e5e67bb5.mp4
+
+MERN Stack
 - 📫 How to reach me mail4sandeep44@gmail.com
 
 <!---
