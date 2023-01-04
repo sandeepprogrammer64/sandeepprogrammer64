@@ -1,5 +1,10 @@
  <h1 align="center">Hi 👋, I'm Sandeep Prajapati</h1>
-<h3 align="center">A  Full Stack Web Developer from India</h3>
+<h3 align="center">An Aspiring and self-motivated Full Stack Web
+Developer with a passion for developing scalable
+web applications and working across Full Stack.
+
+Looking for a challenging role in a growth-
+oriented organization.</h3>
 
 
  <div align="center">
