@@ -4,7 +4,7 @@ Developer with a passion for developing scalable
 web applications and working across Full Stack.
 
 Looking for a challenging role in a growth-
-oriented organization.</h3>
+oriented Organization.</h3>
 
 
  <div align="center">
