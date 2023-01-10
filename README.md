@@ -12,7 +12,7 @@ oriented Organization.</h3>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/101393796/206650688-2bc0b0e4-44fa-4455-98ce-ba627c26e341.gif" height="400" width="500"/>
+  <img src="https://user-images.githubusercontent.com/101393796/206650688-2bc0b0e4-44fa-4455-98ce-ba627c26e341.gif" />
 </div>
 
 
