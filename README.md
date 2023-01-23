@@ -39,6 +39,8 @@ oriented Organization.</h3>
  
 - 📫 How to reach me **mail4sandeep44@gmail.com**
 
+- 📫 Know more about Me through My Resume - https://drive.google.com/file/d/19m6KD4CbI6QVqQTDc-7qmghKVlGNyTqE/view?usp=share_link 
+
 - ⚡ Fun fact **I am more than what I think of myself**
 
 <h3 align="left">Connect with me:</h3>
